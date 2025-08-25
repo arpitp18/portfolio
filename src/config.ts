@@ -94,16 +94,28 @@ export const siteConfig = {
   ],
   certifications: [
     {
-      name: "Microsoft Certified: Azure Solutions Architect Expert",
+      name: "Microsoft Certified: Azure AI Fundamentals",
       issuer: "Microsoft",
-      date: "July 2023",
-      url: "https://learn.microsoft.com/certification/azure-solutions-architect/"
+      date: "June 2025",
+      url: "https://learn.microsoft.com/api/credentials/share/en-us/ArpitPattani-9137/4F0618D6C015EE23?sharingId=3DB5D70FD1EE7FA1"
     },
     {
-      name: "Certified Kubernetes Administrator (CKA)",
-      issuer: "Cloud Native Computing Foundation",
-      date: "March 2022",
-      url: "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"
+      name: "Microsoft Certified: Azure Administrator Associate",
+      issuer: "Microsoft",
+      date: "August 2025",
+      url: "https://learn.microsoft.com/api/credentials/share/en-us/ArpitPattani-9137/21B1C1E1A0255E97?sharingId=3DB5D70FD1EE7FA1"
+    },
+    {
+      name: "Microsoft Certified: DevOps Engineer Expert",
+      issuer: "Microsoft",
+      date: "August 2025",
+      url: "https://learn.microsoft.com/api/credentials/share/en-us/ArpitPattani-9137/BEAD0A36120CEF89?sharingId=3DB5D70FD1EE7FA1"
+    },
+    {
+      name: "HashiCorp Certified: Terraform Associate (003)",
+      issuer: "HashiCorp",
+      date: "August 2025",
+      url: "https://www.credly.com/badges/19a5867c-797f-4dd8-848d-20b70f3fba39"
     }
   ]
 };
