@@ -38,7 +38,7 @@ export const siteConfig = {
       name: "Employee Salary Prediction App",
       description:
         "This project is for Building and Deploying an ML Model using a simple and real-world use case: predicting employee salaries based on various factors.",
-      link: "https://github.com/arpitp18/mlops-employee-salary-prediction",
+      link: "https://github.com/arpitp18/mlops-salary-prediction",
       skills: ["Python", "Streamlit", "KubeFlow"],
     },
   ],
