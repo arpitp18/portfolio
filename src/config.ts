@@ -94,6 +94,12 @@ export const siteConfig = {
   ],
   certifications: [
     {
+      name: "Microsoft Certified: Azure AI Engineer Associate",
+      issuer: "Microsoft",
+      date: "September 2025",
+      url: "https://learn.microsoft.com/api/credentials/share/en-us/ArpitPattani-9137/76DC87FFC0D6194?sharingId=3DB5D70FD1EE7FA1"
+    },
+    {
       name: "Microsoft Certified: Azure AI Fundamentals",
       issuer: "Microsoft",
       date: "June 2025",
