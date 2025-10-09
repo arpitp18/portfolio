@@ -21,6 +21,13 @@ export const siteConfig = {
       skills: ["Java", "Maven", "JSP Servlet", "Jenkins", "Tomcat", "ArgoCD", "Docker", "Kubernetes"],
     },
     {
+      name: "Three Tier Web Application on Azure",
+      description:
+        "Node.js based frontend, Go based backend and Azure PostgreSQL database deployed on Azure using Terraform and Azure Portal",
+      link: "https://github.com/arpitp18/azure-three-tier-app",
+      skills: ["Node.js", "Go", "Azure", "Terraform", "ARM", "Bicep"],
+    },
+    {
       name: "Streaming/Streambase AI Explorer",
       description:
         "This project builds a self-contained toolchain for parsing TIBCO .sbapp applications, converting them into a graph representation, enabling where-used analysis, lineage tracing, and natural-language chat — all running locally with open-source components. ",
