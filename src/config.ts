@@ -21,6 +21,13 @@ export const siteConfig = {
       skills: ["Java", "Maven", "JSP Servlet", "Jenkins", "Tomcat", "ArgoCD", "Docker", "Kubernetes"],
     },
     {
+      name: "Handy Notes Application",
+      description:
+        "Static HTML js as frontend, go as API and SQLite Python as DB making it three tier and three microservices perfect to test CICD. App is solely developed by myself and integrated it with Azure Webapp, k8s, Helm and ArgoCD",
+      link: "https://github.com/arpitp18/handynotes-app",
+      skills: ["js", "Go", "Python", "Azure", "Helm", "ArgoCD", "Kubernetes", "CICD", "Terraform"],
+    },
+    {
       name: "Three Tier Web Application on Azure",
       description:
         "Node.js based frontend, Go based backend and Azure PostgreSQL database deployed on Azure using Terraform and Azure Portal",
